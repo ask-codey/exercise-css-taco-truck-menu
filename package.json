@@ -1,0 +1,11 @@
+{
+  "name": "exercise-css-taco-truck-menu",
+  "private": true,
+  "description": "Exercise code for Exercise: The Taco Truck Menu, in CSS in Depth on ask-codey.com",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "30.1.3"
+  }
+}

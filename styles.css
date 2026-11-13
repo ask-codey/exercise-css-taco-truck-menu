@@ -1,0 +1,22 @@
+/*
+ * Sol Taco Truck: the menu's styles.
+ *
+ * index.html is ready to use. This file is yours to finish (and, for step 3,
+ * a few link lines in index.html). README.md explains each step:
+ *
+ * 1. The page's colors: a text color and a background color on body,
+ *    from a palette written in hex or hsl().
+ * 2. Readable body text: a font stack with a fallback, a size in rem
+ *    and a line-height with no unit.
+ * 3. A web font for the h1 and h2 headings, with a fallback.
+ * 4. Section headings: a color of their own, with a type selector.
+ * 5. Prices: bold, with a class selector.
+ * 6. The spicy label: a background color and a text color, with a class selector.
+ * 7. Today's special: a background color, with an id selector.
+ * 8. The header as a chalkboard: images/chalkboard.webp as its background
+ *    picture, over a dark background color, with light words.
+ *
+ * Sol Taco Truck's brand colors, if you'd like them:
+ *   sunset orange #e4572e    dark brown #3b2a1a    cream #fff4e0
+ *   and the chalkboard's slate #2b2f2e
+ */
